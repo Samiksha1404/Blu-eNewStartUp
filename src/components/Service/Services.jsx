@@ -17,6 +17,7 @@ import s7 from '../../assets/s7.svg'
 import ServiceSolutioncard from './ServiceSolutioncard.jsx'
 import DownloadSection from './DownloadSection.jsx'
 import { NavLink } from 'react-router-dom'
+import ChargeSteps from './ChargeSteps.jsx'
 
 
 function Services() {
@@ -124,6 +125,8 @@ function Services() {
         </div>
       </div>
 
+{/* Charge steps */}
+     <ChargeSteps/>
 
       {/* about blu-e paragraph */}
 

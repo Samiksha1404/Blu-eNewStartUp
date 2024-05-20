@@ -11,6 +11,7 @@ import HomeSubPage7 from '../subpages/HomeSubPage7';
 import ChargingSolution from '../subpages/cahrgingSolution/ChargingSolution';
 import EvAdvantage from '../subpages/EvAdvantage/EvAdvantage';
 import HomeService from '../subpages/HomeService/HomeService';
+import Appsection from '../subpages/Appsection';
 
 
 
@@ -29,6 +30,7 @@ export default function Home() {
         <HomeSubpage9/>
         <HomeSubPage7/>
         <ThoughtLeadership/>
+        <Appsection/>
         <Sponsors/>
        
         </div>
